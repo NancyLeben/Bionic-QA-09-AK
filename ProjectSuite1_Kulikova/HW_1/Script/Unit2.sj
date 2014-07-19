@@ -20,6 +20,6 @@ function CreateFile()
 
 function DelFile()  
 {  TestedApps.cmd.Run();
-  Aliases.cmd.wndConsoleWindowClass.Keys("del"+FilePath+"[Enter]");
+  Aliases.cmd.wndConsoleWindowClass.Keys("del "+FilePath+"[Enter]");
   Aliases.cmd.wndConsoleWindowClass.Click(654, 14);
 }
