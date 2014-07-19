@@ -1,12 +1,12 @@
 �� //This script creates, saves and deletes txt file
 
- var Text = "Join the Dark Side" ; 
- var FilePath  = "C:\\join.txt" ;
+ var Text = "Join the Dark Side"; 
+ var FilePath  = "C:\\join.txt";
 
 function CreateDelFile()
 {
-  CreateFile() ;
-  DelFile() ;
+  CreateFile();
+  DelFile();
 }
 
 function CreateFile()
