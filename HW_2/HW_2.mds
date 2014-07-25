@@ -69,6 +69,7 @@
 			<Node name="namemapping\namemapping.tcnm"/>
 			<Node name="script\script.tcscript"/>
 			<Node name="script\unit1.sj"/>
+			<Node name="script\unit3.sj"/>
 			<Node name="stores\dbtables\dbtables.tcdb"/>
 			<Node name="stores\files.tcfiles"/>
 			<Node name="stores\files\test_data.txt"/>
