@@ -1,0 +1,6 @@
+prodName,quantity,price,discount,date,name,street,city,state,zip,cardType,cardNum,expDate, newName
+"MyMoney","1","$100","10%","3/6/2005","Dessel","Lake","Dexter","Iowa","50070",Visa,"4916307088509157","3/7/2005","Bane"
+"FamilyAlbum","2","$85","5%","4/6/2006","Anakin","Greenpoint","Bethel","Alaska","99559","MasterCard","5258243866228376","4/7/2006","Vader"
+"ScreenSaver","5","$40","1%","4/6/2008","Rain","Bleecker","Los Angeles","California","90049","AE","373339614777366","4/7/2008","Zannah"
+"MyMoney","4","$100","4%","4/6/2009","Palpatine","Parkway","Rockland","Idaho","83271","Visa","5258243866228399","4/7/2010","Sidious"
+"ScreenSaver","1","$40","0%","7/3/2008","Alek","Pearl","Delta","Colorado","81416","MasterCard","561339614777366","10/7/2008","Malak"
