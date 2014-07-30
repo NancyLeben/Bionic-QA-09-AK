@@ -89,9 +89,9 @@
 			<Node name="keywordtests\keywordtests.tckdt"/>
 			<Node name="keywordtests\test3.tckdtest"/>
 			<Node name="namemapping\namemapping.tcnm"/>
+			<Node name="script\create_file.sj"/>
+			<Node name="script\edit_file_main.sj"/>
 			<Node name="script\script.tcscript"/>
-			<Node name="script\unit2.sj"/>
-			<Node name="script\unit3.sj"/>
 			<Node name="stores\dbtables\dbtables.tcdb"/>
 			<Node name="stores\files.tcfiles"/>
 			<Node name="stores\objects.tcobjects"/>

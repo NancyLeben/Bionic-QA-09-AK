@@ -64,7 +64,7 @@
 				</Node>
 				<Node name="data"/>
 				<Node name="test data"/>
-				<Prp name="key" type="S" value="{0EA919A6-68A9-481F-A34C-C75EE895A78D}"/>
+				<Prp name="key" type="S" value="{537D46CC-54A8-48D3-AC9A-C69CDC16FB7B}"/>
 				<Prp name="type" type="S" value="{FD30A383-63C2-4C25-948C-2595C0F81320}"/>
 				<Prp name="typename" type="S" value="Tested Application"/>
 			</Node>
@@ -103,7 +103,7 @@
 					</Node>
 					<Prp name="count" type="I" value="1"/>
 					<Prp name="enabled" type="B" value="-1"/>
-					<Prp name="filename" type="S" value="cmd.EXE"/>
+					<Prp name="filename" type="S" value="cmd.exe"/>
 					<Prp name="filepath" type="S" value="..\..\..\..\..\..\..\WINDOWS\system32\"/>
 					<Prp name="node name" type="S" value="cmd"/>
 					<Prp name="parameters" type="S" value=""/>
@@ -112,7 +112,7 @@
 				</Node>
 				<Node name="data"/>
 				<Node name="test data"/>
-				<Prp name="key" type="S" value="{39E7ED30-7C2A-4B97-AB9A-DA86672E2F46}"/>
+				<Prp name="key" type="S" value="{C367CE8F-C2D2-4E59-8F7B-4529651C6438}"/>
 				<Prp name="type" type="S" value="{FD30A383-63C2-4C25-948C-2595C0F81320}"/>
 				<Prp name="typename" type="S" value="Tested Application"/>
 			</Node>
