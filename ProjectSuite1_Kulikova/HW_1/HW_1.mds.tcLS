@@ -27,6 +27,12 @@
 				<Node name="{39e7ed30-7c2a-4b97-ab9a-da86672e2f46}">
 					<Prp name="filepath" type="S" value="..\..\..\..\..\..\..\WINDOWS\system32\"/>
 				</Node>
+				<Node name="{537d46cc-54a8-48d3-ac9a-c69cdc16fb7b}">
+					<Prp name="filepath" type="S" value="..\..\..\..\..\..\..\WINDOWS\system32\"/>
+				</Node>
+				<Node name="{c367ce8f-c2d2-4e59-8f7b-4529651c6438}">
+					<Prp name="filepath" type="S" value="..\..\..\..\..\..\..\WINDOWS\system32\"/>
+				</Node>
 			</Node>
 			<Node name="logs">
 				<Prp name="key" type="S" value="{26DF87E3-55D7-4142-8D09-24811F489FAE}"/>
