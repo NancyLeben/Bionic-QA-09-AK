@@ -22,7 +22,7 @@
 		<Node name="child list">
 			<Node name="item0000000000">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Create_File.sj"/>
+					<Prp name="relpath" type="S" value="Unit2.sj"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
 				<Prp name="key" type="S" value="{BAD69921-C004-46DB-9273-B0CDE5CA2F31}"/>
@@ -31,7 +31,7 @@
 			</Node>
 			<Node name="item0000000001">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Edit_File_Main.sj"/>
+					<Prp name="relpath" type="S" value="Unit3.sj"/>
 				</Node>
 				<Prp name="index" type="I" value="1"/>
 				<Prp name="key" type="S" value="{5883ECAD-9BE7-452E-ABC6-0CDC7DB693F9}"/>

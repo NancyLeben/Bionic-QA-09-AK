@@ -27,11 +27,7 @@
 				<Prp name="activity" type="S" value="{BAD69921-C004-46DB-9273-B0CDE5CA2F31}"/>
 				<Prp name="default project" type="S" value="{916F245A-09C1-49DE-9B60-DBDD950BD6EE}"/>
 			</Node>
-			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}">
-				<Node name="{3bc1a2e1-41b8-4ef7-a573-410b992023f4}">
-					<Prp name="hash" type="I" value="1"/>
-				</Node>
-			</Node>
+			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
 				<Node name="workspace">
 					<Node name="0">
