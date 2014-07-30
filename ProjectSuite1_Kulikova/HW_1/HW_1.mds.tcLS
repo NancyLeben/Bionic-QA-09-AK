@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="{6bfc2a66-d46c-492f-a290-8dfe47e662bc}">
+				<Node name="{0ea919a6-68a9-481f-a34c-c75ee895a78d}">
+					<Prp name="filepath" type="S" value="..\..\..\..\..\..\..\WINDOWS\system32\"/>
+				</Node>
+				<Node name="{39e7ed30-7c2a-4b97-ab9a-da86672e2f46}">
+					<Prp name="filepath" type="S" value="..\..\..\..\..\..\..\WINDOWS\system32\"/>
+				</Node>
+				<Node name="{537d46cc-54a8-48d3-ac9a-c69cdc16fb7b}">
+					<Prp name="filepath" type="S" value="..\..\..\..\..\..\..\WINDOWS\system32\"/>
+				</Node>
+				<Node name="{c367ce8f-c2d2-4e59-8f7b-4529651c6438}">
+					<Prp name="filepath" type="S" value="..\..\..\..\..\..\..\WINDOWS\system32\"/>
+				</Node>
+			</Node>
+			<Node name="logs">
+				<Prp name="key" type="S" value="{26DF87E3-55D7-4142-8D09-24811F489FAE}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables"/>
+		</Node>
+		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
+	</Node>
+</Nodes>
